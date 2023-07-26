@@ -8,6 +8,8 @@ Analyzing sales of soda around the continental United States and creating a Powe
 
 # Screenshot
 
-![SodaPic1](https://github.com/GerardRosario/PowerBI_SodaSalesDashboard/assets/55461102/24fad5b4-452d-438d-a8c9-43fcdc8c4316)
+![SodaPic1](https://github.com/GerardRosario/PowerBI_SodaSalesDashboard/assets/55461102/4553fa2d-624d-44ae-8bd6-ddb2fbfe8e4f)
 
-![SodaPic2](https://github.com/GerardRosario/PowerBI_SodaSalesDashboard/assets/55461102/e663f4b6-97d9-4e4a-9a84-d1175e559fbb)
+![SodaPic2](https://github.com/GerardRosario/PowerBI_SodaSalesDashboard/assets/55461102/57914f06-221c-4b62-b85f-8aa104af0436)
+
+
